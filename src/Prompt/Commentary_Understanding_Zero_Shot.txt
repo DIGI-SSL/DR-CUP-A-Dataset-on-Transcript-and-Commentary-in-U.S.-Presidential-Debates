@@ -1,6 +1,4 @@
 This is a commentary made by the commentator on the U.S. presidential election: {Insert Commentary}.
-The corresponding debate transcript is: {Insert Transcript}.
-If the transcript is "NO," it means there is no corresponding transcript.
 Here are the 11 different labels:
 Key Summary: Observing if the commentary summarizes a statement made by the candidate or the host.
 Supplementary Explanation: Supplementing with comments from other experts, real-world events, or the current state of the debate without subjective opinions or commentary.
@@ -13,4 +11,4 @@ Commentator's Personal Opinion (Other): Observing if the commentator is commenti
 Market Reaction: Observing if the commentary mentions economic or currency market fluctuations.
 Public Opinion: Observing if the commentary describes the public's stance on a particular issue or polling trends.
 Commentator's Question: Observing if the commentary includes a question posed by the commentator.
-Please determine which label best corresponds to the commentary made by the commentator on the U.S. presidential election, based on the corresponding transcript. Please reply with the most likely label.
+Please determine which label the commentator's remarks on the U.S. presidential election most likely fall under, based on the previously mentioned categories. Reply with the most probable label only.
