@@ -1,6 +1,7 @@
 # DR-CUP:<br /> A Dataset on Transcript and Commentary in U.S. Presidential Debates
 ## PreDeCo Dataset
 In this repository, we provide the **PreDeCo** dataset, which is divided into 11 different labels and used for two tasks.<br />
+
 The dataset was compiled using debate scripts from the **U.S. presidential election debates spanning 2016 to 2024** <br />
 (as well as the Republican primary debates of 2023) and the corresponding professional commentary transcripts collected from Bloomberg.<br />
 
