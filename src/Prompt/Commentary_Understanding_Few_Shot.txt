@@ -11,7 +11,7 @@ Commentator's Personal Opinion (Other): Observing if the commentator is commenti
 Market Reaction: Observing if the commentary mentions economic or currency market fluctuations.
 Public Opinion: Observing if the commentary describes the public's stance on a particular issue or polling trends.
 Commentator's Question: Observing if the commentary includes a question posed by the commentator.
-Please determine which label best corresponds to the commentary made by the commentator on the U.S. presidential election, based on the corresponding transcript. Please reply with the most likely label.
+Please determine which label the commentator's remarks on the U.S. presidential election most likely fall under, based on the previously mentioned categories. Reply with the most probable label only.
 Here are some examples of commentaries and their corresponding labels with the transcripts. Please use these examples to determine the appropriate label.
 Commentary: "It’s in some ways apt that an issue that has had relative bipartisan support and yet keeps eluding successive presidents -- including the two on the stage now -- was largely derailed when the moderators raised it."
 Label: Commentator's Personal Opinion (Performance of the Contestants)
