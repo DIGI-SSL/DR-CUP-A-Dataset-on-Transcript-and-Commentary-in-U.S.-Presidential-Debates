@@ -1,5 +1,5 @@
 # Simplified Prompt Format for<br/> Commentary Understanding and Planning
-| Prompt | Component Definition | Example |
+| Prompt Component  | Component Definition | Example |
 |:--|:--|:--|
 |Commentary and Transcript Input <br/>(Label Prediction)|Commentary from a commentator regarding the U.S. presidential election.<br/>The transcript is included if available.|This is a commentary made by a commentator regarding the U.S. presidential election: {***commentary***}.<br/> This is the corresponding debate transcript: {***transcript***}. <br/>"***NO***" means no transcript is available.|
 |Transcript-Only Input<br/>(Label Planning)|This experiment generates a commentary label based on the U.S. presidential debate transcript. <br/>If the transcript is "***NO***", previous transcripts are merged into a continuous passage for labeling.|This is a transcript of a U.S. presidential election debate: {***transcript***}.<br/>
