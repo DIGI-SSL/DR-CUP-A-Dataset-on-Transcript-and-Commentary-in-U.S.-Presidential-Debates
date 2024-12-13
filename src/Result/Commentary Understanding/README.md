@@ -27,8 +27,8 @@
         <tr>
             <td rowspan="3">Few-Shot</td>
             <td>GPT-4o</td>
-            <td class="bold">0.6071</td>
-            <td class="bold">0.4631</td>
+            <td class="bold"><b>0.6071</td>
+            <td class="bold"><b>0.4631</td>
         </tr>
         <tr>
             <td>Claude 3.5 Sonnet</td>
