@@ -1,8 +1,11 @@
 <table>
         <tr>
-            <th rowspan="2">Scheme</th>
-            <th rowspan="2">LLM</th>
-            <th colspan="2">Planning</th>
+         <th colspan="2">Task</th>
+         <th colspan="2">Planning</th>
+                <tr>
+                 <th rowspan="2">Scheme</th>
+                 <th rowspan="2">LLM</th>
+                </tr>
         </tr>
         <tr>
             <th>Micro-F1</th>
