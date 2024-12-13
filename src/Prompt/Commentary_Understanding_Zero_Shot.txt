@@ -11,6 +11,6 @@ Commentator's Personal Opinion (Analyzing or Conclusions): Observing if the comm
 Commentator's Personal Opinion (Market Performance): Observing if the commentary is commenting on stock markets or the economy of a country.
 Commentator's Personal Opinion (Other): Observing if the commentator is commenting on anything else.
 Market Reaction: Observing if the commentary mentions economic or currency market fluctuations.
-Public Opinion Trends: Observing if the commentary describes the public's stance on a particular issue or polling trends.
+Public Opinion: Observing if the commentary describes the public's stance on a particular issue or polling trends.
 Commentator's Question: Observing if the commentary includes a question posed by the commentator.
 Please determine which label best corresponds to the commentary made by the commentator on the U.S. presidential election, based on the corresponding transcript. Please reply with the most likely label.
