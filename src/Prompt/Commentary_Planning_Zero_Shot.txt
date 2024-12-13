@@ -1,3 +1,15 @@
 This is a transcript from a U.S. presidential debate: {Insert Transcripts}.
 Please help me determine which type of commentary label is appropriate for this transcript.
 Here are the 11 different labels:
+Key Summary: Observing if the commentary summarizes a statement made by the candidate or the host.
+Supplementary Explanation: Supplementing with comments from other experts, real-world events, or the current state of the debate without subjective opinions or commentary.
+Fact-checking: Verifying whether a statement made by the candidate in the debate or an external rumor is correct.
+Commentator's Personal Opinion (Performance of the Contestants): Observing if the commentary is commenting on the candidate's performance during the debate.
+Commentator's Personal Opinion (Candidate Statements): Observing if the commentary is commenting on the candidate's speech.
+Commentator's Personal Opinion (Analyzing or Conclusions): Observing if the commentary is inferring or analyzing something or a statement.
+Commentator's Personal Opinion (Market Performance): Observing if the commentary is commenting on stock markets or the economy of a country.
+Commentator's Personal Opinion (Other): Observing if the commentator is commenting on anything else.
+Market Reaction: Observing if the commentary mentions economic or currency market fluctuations.
+Public Opinion Trends: Observing if the commentary describes the public's stance on a particular issue or polling trends.
+Commentator's Question: Observing if the commentary includes a question posed by the commentator.
+Based on the definitions of the labels above, please determine which label best fits the previously mentioned transcript, and respond with the most likely label.
