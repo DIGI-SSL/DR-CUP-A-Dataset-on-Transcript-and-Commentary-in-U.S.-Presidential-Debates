@@ -1,12 +1,15 @@
 <table>
         <tr>
-            <th rowspan="2">Scheme</th>
-            <th rowspan="2">LLM</th>
-            <th colspan="2">Understanding</th>
+         <th colspan="2">Task</th>
+         <th colspan="2">Understanding</th>
+                <tr>
+                 <th rowspan="2">Scheme</th>
+                 <th rowspan="2">LLM</th>
+                </tr>
         </tr>
         <tr>
             <th>Micro-F1</th>
-            <th>Macro-F1</th>
+            <th>Macro-F1</th> 
         </tr>
         <tr>
             <td rowspan="3">Zero-Shot</td>
