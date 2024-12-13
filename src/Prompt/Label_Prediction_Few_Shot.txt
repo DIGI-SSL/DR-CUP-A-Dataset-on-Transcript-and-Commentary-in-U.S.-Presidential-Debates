@@ -1,0 +1,83 @@
+This is a commentary made by the commentator on the U.S. presidential election: {Insert Commentary}.
+The corresponding debate transcript is: {Insert Transcript}.
+If the transcript is "NO," it means there is no corresponding transcript.
+Here are the 11 different labels:
+Key Summary: Observing if the commentary summarizes a statement made by the candidate or the host.
+Supplementary Explanation: Supplementing with comments from other experts, real-world events, or the current state of the debate without subjective opinions or commentary.
+Fact-checking: Verifying whether a statement made by the candidate in the debate or an external rumor is correct.
+Commentator's Personal Opinion (Performance of the Contestants): Observing if the commentary is commenting on the candidate's performance during the debate.
+Commentator's Personal Opinion (Candidate Statements): Observing if the commentary is commenting on the candidate's speech.
+Commentator's Personal Opinion (Analyzing or Conclusions): Observing if the commentary is inferring or analyzing something or a statement.
+Commentator's Personal Opinion (Market Performance): Observing if the commentary is commenting on stock markets or the economy of a country.
+Commentator's Personal Opinion (Other): Observing if the commentator is commenting on anything else.
+Market Reaction: Observing if the commentary mentions economic or currency market fluctuations.
+Public Opinion Trends: Observing if the commentary describes the public's stance on a particular issue or polling trends.
+Commentator's Question: Observing if the commentary includes a question posed by the commentator.
+Please determine which label best corresponds to the commentary made by the commentator on the U.S. presidential election, based on the corresponding transcript. Please reply with the most likely label.
+Here are some examples of commentaries and their corresponding labels with the transcripts. Please use these examples to determine the appropriate label.
+Commentary: "It’s in some ways apt that an issue that has had relative bipartisan support and yet keeps eluding successive presidents -- including the two on the stage now -- was largely derailed when the moderators raised it."
+Label: Commentator's Personal Opinion (Performance of the Contestants)
+Transcript: NO
+Commentary: "A question on how Trump would make childcare more affordable turned into a replay of earlier bickering on relations with the military, and who’s the worst president in history."
+Label: Commentator's Personal Opinion (Performance of the Contestants)
+Transcript: NO
+Commentary: "Trump came into office with inflation at 2.5% in 2017, and the pandemic economic crash brought the rate down to almost zero. Annual inflation rose as the economy re-opened, and supply-chain constraints when the country roared back to life were an additional — and significant — catalyst."
+Label: Commentator's Personal Opinion (Candidate Statements)
+Transcript: NO
+Commentary: "It’s true that US air pollution has declined -- particularly levels of criteria air pollutants have declined, even under Trump’s watch. Levels of particulate matter that can worsen asthma and smog-forming compounds have dropped as a result of environmental regulations. But during Trump’s first term, his administration rolled back or eased many such safeguards."
+Label: Commentator's Personal Opinion (Candidate Statements)
+Transcript: NO
+Commentary: "Biden says his administration is 'still pushing hard' to get Hamas to accept a ceasefire and says the only munitions he has denied Israel are 2,000-pound bombs, which 'don’t work well in populated areas.'"
+Label: Key Summary
+Transcript: "Number one, everyone from the United Nations Security Council straight through to the G7, to the Israelis and Netanyahu himself have endorsed the plan I put forward, which has three stages to it. The first stage is trade the hostages for a ceasefire. Second phase is a ceasefire with additional conditions. The third phase is the end of the war. The only one who wants the word to continue is Hamas. Number one, they’re the only ones standing out. We’re still pushing hard to get them to accept. In the meantime, what’s happened? In Israel, we’re fine. I said the only thing I’ve denied Israel was 2000-pound bombs. They don’t work very well in populated areas. They kill a lot of innocent people. We’re providing Israel with all the weapons they need and when they need them."
+Commentary: "Trump returns to the subject of Ukraine and NATO and says the alliance was 'going out of business' when he took office and starting pushing the countries to spend more on defense."
+Label: Key Summary
+Transcript: "The European nations together have spent 100 billion or maybe more than that less than us. Why doesn’t he call them and say you got to put up your money like I did with NATO? I got them to put up hundreds of billions of dollars. The Secretary General of NATO said, 'Trump did the most incredible job I’ve ever seen.' They were going out of business. We were spending, almost 100% of the money it was paid by us. He didn’t do that. You got to ask these people to put up the money. We’re over $100 billion dollars more spent and it has a bigger impact on them because of location, because we have an ocean in between."
+Commentary: "In the world of crypto, Bitcoin is pushing higher as the debate continues, climbing more than 1% to break past $62,000."
+Label: Market Reaction
+Transcript: NO
+Commentary: "'Currencies are reacting to the US presidential debate,' said Carol Kong, a currency strategist at Commonwealth Bank of Australia. Judging by the reactions so far, markets think President Trump is 'winning' the debate, she said."
+Label: Market Reaction
+Transcript: NO
+Commentary: "Hunter Biden on June 11 was found guilty on three counts of violating federal gun laws for illegally checking a box on a form stating that he wasn’t an active drug user at the time he bought the firearm."
+Label: Fact-checking
+Transcript: NO
+Commentary: "NEW: Two sources familiar with the situation say 'President Biden has a cold.'"
+Label: Fact-checking
+Transcript: NO
+Commentary: "That’s probably because even though unemployment has been lower and economic growth has been better under Biden, the US economy performed better under Trump on standard-of-living indicators such as disposable personal income growth and inflation."
+Label: Commentator's Personal Opinion (Analyzing or Conclusions)
+Transcript: NO
+Commentary: "If Trump wins again, it’s more than likely that European nations will be targeted once more, given that his advisers want the European Union to take a harder line with China on matters of trade and investment."
+Label: Commentator's Personal Opinion (Analyzing or Conclusions)
+Transcript: NO
+Commentary: "Poll after poll shows voters believe the economy and their own financial situation was better under Trump than under Biden."
+Label: Public Opinion
+Transcript: NO
+Commentary: "Public support for abortion has inched up slightly since the Supreme Court overturned Roe in 2022. Currently, 63% of Americans say it should be legal in all or most cases, according to Pew Research Center. Some 85% of Democrats and 41% of Republicans say the same."
+Label: Public Opinion
+Transcript: NO
+Commentary: "That has become a fraught subject after his campaign faced an allegation that staffers were involved in an altercation with a cemetery official during a visit to Arlington National Cemetery. Trump was also criticized for taking a photo at a gravesite, which the former president said he did at the request of the family members he went to support."
+Label: Commentator's Personal Opinion (Other)
+Transcript: NO
+Commentary: "David Muir fact-checks Trump saying violent crime is down citing the FBI, after Trump claims crime is 'through the roof.' Trump claims without evidence the statistics are fraudulent."
+Label: Commentator's Personal Opinion (Other)
+Transcript: NO
+Commentary: "Investors will be assessing the likelihood of a Donald Trump victory, which if coupled with a Republican-controlled Congress, is expected to see a surge in Treasury yields and a boost to the greenback."
+Label: Commentator's Personal Opinion (Market Performance)
+Transcript: NO
+Commentary: "Key Asian currencies are already testing multi-year lows against the dollar, with the won falling toward the key 1,400 level, while the yen this week blew past a threshold where officials intervened in the market in April. This will up the risk of currency intervention from South Korea and Japanese authorities."
+Label: Commentator's Personal Opinion (Market Performance)
+Transcript: NO
+Commentary: "The rules called for cutting off a candidate’s microphone when his allotted time expired and so far, CNN has cut off Trump’s mic at least once as he kept talking."
+Label: Supplementary Explanation
+Transcript: NO
+Commentary: "Crypto tycoons and allies have amassed a $160 million war chest to support candidates viewed as friendly — making the sector one of the most influential players in federal campaign finance."
+Label: Supplementary Explanation
+Transcript: NO
+Commentary: "If our leaders can’t get along, how can our citizens get along?"
+Label: Commentator's Question
+Transcript: NO
+Commentary: "Does this presentation of Trump’s record move them at all?"
+Label: Commentator's Question
+Transcript: NO
