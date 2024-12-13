@@ -1,9 +1,10 @@
 # DR-CUP:<br /> A Dataset on Transcript and Commentary in U.S. Presidential Debates
 ## PreDeCo Dataset
 In this repository, we provide the **PreDeCo** dataset, which is divided into 11 different labels and used for two tasks.<br />
-This dataset originates from the debate collections of the **U.S. presidential elections from 2016 to 2024**.<br />
-The content includes the correspondence between comments and the candidates' transcripts, as well as the stance of the comments.
-## Labels
+The dataset was compiled using debate scripts from the **U.S. presidential election debates spanning 2016 to 2024** <br />
+(as well as the Republican primary debates of 2023) and the corresponding professional commentary transcripts collected from Bloomberg.<br />
+
+## Label Design
 We have categorized these correspondences into 11 labels, which are as follows:
 ### (1) Key Summary:<br /> 
 This label indicates that the commentator is summarizing points raised by the debate moderators or contestants.
@@ -29,3 +30,6 @@ Highlights commentary related to economic fluctuations or monetary market trends
 Represents descriptions of public sentiment on specific issues or polling trends.
 ### (7) Commentator’s Question: 
 Indicates that the commentator is posing a question about a particular issue.
+
+
+
