@@ -2,7 +2,7 @@
 >For the prompt structure and description used in the experiments, please refer to **```src/Prompt```**.<br />
 >For the annotated data of the dataset, please refer to **```src/Annotation```**.<br />
 >For the evaluation results of the LLMs experiment task, please refer to **```src/Result```**.<br />
-## PreDeCo Dataset
+## DR-CUP Dataset
 In this repository, we provide the **PreDeCo** dataset, which is divided into 11 different labels and used for 2 tasks.<br />
 
 The dataset was compiled using debate scripts from the **U.S. presidential election debates spanning 2016 to 2024** <br />
