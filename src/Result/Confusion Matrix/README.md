@@ -1,4 +1,4 @@
-# Explanation of confusion matrix legend
+# Explanation of confusion matrix legends
 ### KS: Key Summary
 ### FC: Fact-checking
 ### SE: Supplementary Explanation
