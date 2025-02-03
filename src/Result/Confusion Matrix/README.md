@@ -11,6 +11,5 @@
 ### CPO(MP): Commentator’s Personal Opinion(Market Performance)
 ### CPO(Others): Commentator’s Personal Opinion(Others)
 ---
-## *GPT4o(Commentary_Understanding)_Zero_Shot
-![GPT4o(Commentary_Understanding)_Zero_Shot](https://github.com/user-attachments/assets/098fee96-bfed-4a37-a0da-399e64a99f6d)
+
 
