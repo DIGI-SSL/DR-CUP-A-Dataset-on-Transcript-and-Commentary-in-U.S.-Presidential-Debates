@@ -1,0 +1,10 @@
+This is a transcript excerpt from the {str(Year)} U.S. Presidential Debate:
+{data_csv['data'][i][1]}
+
+Please read and understand the transcript carefully. Then, based on the following label and its definition:
+{data_csv['data'][i][2]}
+
+Generate an English commentary from the perspective of a professional political commentator. The commentary should align with the meaning and purpose of the given label and remain relevant to the transcript segment.
+
+Only output the generated commentary content—no explanations or labels.
+Please begin your response with: "Commentary:"

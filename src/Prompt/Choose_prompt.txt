@@ -1,0 +1,16 @@
+Below is a transcript excerpt from the {str(2023–2024)} U.S. Presidential Debate:
+"{data_csv['data'][i][1]}"
+
+Following the transcript are five commentaries, each labeled with the type "{data_csv['data'][i][0]}":
+Type "{data_csv['data'][i][0]}" Commentary 1: "{data_csv['data'][i][2]}"
+Type "{data_csv['data'][i][0]}" Commentary 2: "{data_csv['data'][i][3]}"
+Type "{data_csv['data'][i][0]}" Commentary 3: "{data_csv['data'][i][4]}"
+Type "{data_csv['data'][i][0]}" Commentary 4: "{data_csv['data'][i][5]}"
+Type "{data_csv['data'][i][0]}" Commentary 5: "{data_csv['data'][i][6]}"
+
+Please select the commentary you are most satisfied with.
+(If you believe none of the commentaries are appropriate, you may choose not to select any and respond with No.)
+Only return your selected commentary—no explanation is needed.
+
+Format:
+Satisfied Commentary: Summary 1/2/3/4/5 or No

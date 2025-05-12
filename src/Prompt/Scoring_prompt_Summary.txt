@@ -1,0 +1,25 @@
+Below is a transcript excerpt from the {str(2023–2024)} U.S. Presidential Debate:
+"{data_csv['data'][i][1]}"
+
+Then follows a single commentary:
+Type "{data_csv['data'][i][0]}" Commentary {j+1}: "{data_csv['data'][i][j+2]}"
+
+Please evaluate the commentary strictly based on the following scoring criteria. Do not provide any explanation—just output the scores.
+
+Summary Evaluation Criteria:
+
+Evidence Relevance: How relevant the summary is to the transcript content, scored from 1 (low) to 5 (high)
+
+Style: The quality of writing style, from 1 (unacceptable) to 5 (highly acceptable)
+
+Factual Consistency: How factually aligned the summary is with the transcript, from 1 (low) to 5 (high)
+
+Comprehensibility: How well a general audience can understand the summary, from 1 (hard to understand) to 5 (very clear)
+
+Please strictly follow this output format:
+
+Summary {j+1}:
+Evidence Relevance: 1-5  
+Style: 1-5  
+Factual Consistency: 1-5  
+Comprehensibility: 1-5

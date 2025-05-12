@@ -1,0 +1,27 @@
+Below is a transcript excerpt from the {str(2023–2024)} U.S. Presidential Debate:
+"{data_csv['data'][i][1]}"
+
+Next is a single commentary:
+Type "{data_csv['data'][i][0]}" Commentary {j+1}: "{data_csv['data'][i][j+2]}"
+
+Please evaluate the commentary based on the following scoring criteria. Do not provide any explanation—just output the scores.
+
+Commentary Evaluation Criteria:
+
+Importance: How important the commentary is for the general public—i.e., how impactful the topic discussed is. Scored from 1 (low) to 5 (high).
+
+Comprehensibility: How easily a general audience can understand the commentary and the message it conveys. Scored from 1 (hard to understand) to 5 (very clear).
+
+Predictability: Whether the commentary presents expected or surprising content. Scored from 1 (very expected) to 5 (very unexpected).
+
+Plausibility: How likely the scenario or statement in the commentary is to occur. Scored from 1 (unlikely) to 5 (very likely).
+
+Credibility: How trustworthy and reliable the commentary is. Scored from 1 (not credible) to 5 (highly credible).
+
+Please strictly follow this output format:
+Commentary{j+1}:  
+Importance: 1-5  
+Comprehensibility: 1-5  
+Predictability: 1-5  
+Plausibility: 1-5  
+Credibility: 1-5
