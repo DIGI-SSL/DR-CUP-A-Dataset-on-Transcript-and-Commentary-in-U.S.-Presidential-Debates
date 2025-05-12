@@ -12,8 +12,10 @@
 ### CPO(Others): Commentator’s Personal Opinion(Others)
 ---
 ## Corresponding to Table 5 in the paper (GPT4o)
-![GPT4o(Commentary_Understanding)_Few_Shot](https://github.com/user-attachments/assets/4d28f62f-abf2-4b7f-bde1-dc60de51baca)
+![GPT4o(Commentary_Understanding)_Few_Shot_2023-2024_Norm](https://github.com/user-attachments/assets/7601ce7e-c339-462f-8909-64d43bc424cb)
+
 
 ---
 ## Corresponding to Table 6 in the paper (Claude)
-![Claude(Commentary_Planning)_Few_Shot](https://github.com/user-attachments/assets/d9f9c504-b2dc-48e3-a338-ad8dc79c639e)
+![Claude3 5(Commentary_Planning)_Few_Shot_2023-2024_Norm](https://github.com/user-attachments/assets/322119ba-14eb-4fee-b53d-a12f80414474)
+
