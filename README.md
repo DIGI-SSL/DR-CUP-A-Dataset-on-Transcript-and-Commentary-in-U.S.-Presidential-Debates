@@ -2,6 +2,7 @@
 >For the prompt structure and description used in the experiments, please refer to **```src/Prompt```**.<br />
 >For the annotated data of the dataset, please refer to **```src/Annotation```**.<br />
 >For the evaluation results of the LLMs experiment task, please refer to **```src/Result```**.<br />
+>For the Scoring & Choose results of the LLMs as evaluators, please refer to **```src/Score&Choose```**.<br />
 ## DR-CUP Dataset
 In this repository, we provide the **DR-CUP** dataset, which is divided into 11 different labels and used for 2 tasks.<br />
 
